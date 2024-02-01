@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Aston_ContactBook_ReciclerView</string>
+    <string name="fullName">%1$s %2$s</string>
+
+    <string name="hint_phone_number">Phone number</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+
+    <string name="title_delete_contact">Delete contact</string>
+    <string name="title_contact_book">Contact Book</string>
+    <string name="title_new_contact">New Contact</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_add">Add</string>
+
+    <string name="content_description_confirm_delete">Confirm delete</string>
+    <string name="content_description_decline_delete">Decline delete</string>
+    <string name="content_description_add_contact">Add contact</string>
+    <string name="content_description_checkbox">CheckBox</string>
+
+    <string name="id_delete_contact">id_delete_contact</string>
+
+    <string name="change_contact">Change contact</string>
+
+    <string-array name="firstNames">
+        <item>Alice</item>
+        <item>Bob</item>
+        <item>Charlie</item>
+        <item>David</item>
+        <item>Emma</item>
+        <item>Frank</item>
+        <item>Grace</item>
+        <item>Hannah</item>
+        <item>Ivy</item>
+        <item>Jack</item>
+    </string-array>
+
+    <string-array name="lastNames">
+        <item>Smith</item>
+        <item>Johnson</item>
+        <item>Williams</item>
+        <item>Jones</item>
+        <item>Brown</item>
+        <item>Davis</item>
+        <item>Miller</item>
+        <item>Wilson</item>
+        <item>Moore</item>
+        <item>Taylor</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,12 @@
+[versions]
+lifecycle_version = "2.4.0"
+glide_version = "4.16.0"
+dagger_version = "2.48"
+
+[libraries]
+androidx-lifecycle-viewmodel = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version.ref = "lifecycle_version" }
+com-google-dagger-compiler = { group = "com.google.dagger", name = "dagger-compiler", version.ref = "dagger_version" }
+com-github-bumtech-glide = { group = "com.github.bumptech.glide", name = "glide", version.ref = "glide_version" }
+com-google-dagger = { group = "com.google.dagger", name = "dagger", version.ref = "dagger_version" }
+
+[plugins]
